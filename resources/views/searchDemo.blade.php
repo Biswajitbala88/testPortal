@@ -25,10 +25,6 @@
             });
         }
     });
-
-    // Assuming you have an input field with an ID of 'search'
-
-  
 </script>
 // js code start here 
      
