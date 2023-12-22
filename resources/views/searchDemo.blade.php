@@ -12,7 +12,8 @@
     <h1>Autocomplete Search from Database</h1>   
     <input class="typeahead form-control" id="search" type="text">
 </div>
-     
+    
+ // js code start here    
 <script type="text/javascript">
     var path = "{{ route('autocomplete') }}";
     $('#search').typeahead({
